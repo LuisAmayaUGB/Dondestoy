@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dondestoy</string>
+
+    <string name="resume">Resume</string>
+    <string name="pause">Pausa</string>
+
+</resources>
